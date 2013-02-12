@@ -1,4 +1,5 @@
-Harbringer-of-the-Anal-Apocalypse
+Harbringer of the Anal Apocalypse
 =================================
 
-Watch as the most ridiculous program comes to life.
+It gets bigger when I pull it.
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
