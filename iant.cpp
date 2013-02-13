@@ -6,15 +6,15 @@ using namespace std;
 
 int createFile(char fname[20], char ftype[5])
 {
-  char finaltype[25];
-	strcpy(finaltype, fname);
+	char finaltype[25];
+	strcpy_s(finaltype, sizeof(finaltype), fname);
 	strcat_s(finaltype, ftype);
 
 	FILE *noob;
 	try
 	{
-		noob = fopen(finaltype, "w+");
-		fprintf(noob, "This is a test.");
+		fopen_s(&noob, finaltype, "w+");
+		fprintf(noob, "Hi, this will be the source file.");
 		fclose(noob);
 		printf("File successfully created.\n");
 	}
