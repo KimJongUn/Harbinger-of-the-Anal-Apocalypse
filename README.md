@@ -18,9 +18,8 @@ Mainly due to the fact that I want some sort of experience with the site and jus
             >Create new analysis file.
             >Analysis file functionality.
             (MOAR2CUM)
-      -Add the encrpytion.
-      -Add Curses.
-      -Fap.
+      -Add the encryption mechanism.
+      -Add PDCurses for ultimate 2013 GUI experience.
 
 Bitcoin address: 1MFyMR1xVr1qHPmSGBT9Y7GU8d7L3fPEZK
 
