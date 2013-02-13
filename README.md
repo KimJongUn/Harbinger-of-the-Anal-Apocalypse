@@ -12,7 +12,12 @@ So why am I posting to GitHub?
 Mainly due to the fact that I want some sort of experience with the site and just learning how to program in a logical way.
 
       TODO:
-      -Add the core functions.
+      -Add the core functions:
+            >Create new project.
+            >Project functionality.
+            >Create new analysis file.
+            >Analysis file functionality.
+            (MOAR2CUM)
       -Add the encrpytion.
       -Add Curses.
       -Fap.
