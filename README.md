@@ -1,9 +1,9 @@
-Harbringer of the Anal Apocalypse
+Harbinger of the Anal Apocalypse
 =================================
 
 Also known as proj_haruhi is a program developed by the General Kim Jong Un and Eternal President Kim Il Sung. It was directed by Kim Jong Il with his expert Internet skills and is the bestest Starcraft player in all of the Korea.
 
-You may be wonder, why the fuck is this program called Harbringer of the Anal Apocalypse? Good sir/ma'am, maybe you should shut it and listen.
+You may be wonder, why the fuck is this program called Harbinger of the Anal Apocalypse? Good sir/ma'am, maybe you should shut it and listen.
 I don't really know why this name was selected, all I know is that it's awesome.
 
 However, one thing isn't clear... What the fuck does this program do? WELL SILLY I'LL TELL YOU! It's an encrypted information gathering storage utility (EIGSU) designed for whatever.
