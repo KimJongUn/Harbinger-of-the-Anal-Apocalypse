@@ -6,6 +6,11 @@ Also known as proj_haruhi is a program developed by the General Kim Jong Un and 
 You may be wonder, why the fuck is this program called Harbringer of the Anal Apocalypse? Good sir/ma'am, maybe you should shut it and listen.
 I don't really know why this name was selected, all I know is that it's awesome.
 
+However, one thing isn't clear... What the fuck does this program do? WELL SILLY I'LL TELL YOU! It's an encrypted information gathering storage utility (EIGSU) designed for whatever.
+To be honest, I'm a new programmer. Not a very good one, so this project most likely will suck a very large quantity amount of cock.
+So why am I posting to GitHub?
+Mainly due to the fact that I want some sort of experience with the site and just learning how to program in a logical way.
+
       TODO:
       -Add the core functions.
       -Add the encrpytion.
