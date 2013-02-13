@@ -17,6 +17,8 @@ Mainly due to the fact that I want some sort of experience with the site and jus
       -Add Curses.
       -Fap.
 
+Bitcoin address: 1MFyMR1xVr1qHPmSGBT9Y7GU8d7L3fPEZK
+
 Copyright © 2000 KimJongUn opensourcepatriot@gmail.com
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
