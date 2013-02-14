@@ -1,0 +1,35 @@
+Software is aimed for the user's perspective. Such things are like the GUI and the functionallity, while the programmer must work on how it will go about those functions and what the GUI would look like. This requires to also look at the user's perspective as to create a program would require both knowledge of the target market and how to go about making it work the way you want it.
+Vital points on software development:
+- Settings standards and sticking to them. Design standards and do it better than other markets.
+-Explain the rules. The rules will make a guideline on how you want your program to be set out.
+-Use the Interface elements correctly and don't be all ADHD about it. Make it OCD as much as you can to make the user think that the programmers must be great people rather than a bunch of monkeys closing their eyes and pressing random buttons.
+-Appropriate color for your program.
+-Correct fonts.
+-Alignment of data entry.
+-Provide a consistent method of reversing actions. Seriously, bloody Photoshop lets you only undo ONCE! WHY? WHY ADOBE?
+Your program should have the ease of use that other programs have, such as the license feature shouldn't stop working for some reason and the fact that you require Internet connection to just open the damn program can be frustrating.
+Error messages should be descriptive as possible and relevant to the actual error rather than:
+"HOLY POOP ERROR ERROR LOLOLOL WINDOWS HAS DONE AN ILLEGAL OPERATION AND MUST SHUT DOWN OH MAN YOU'RE GOING TO JAIL NOW XD XD SHOULD OF BOUGHT A MAC N00B!"
+It should be:
+"Error connecting to the user database: Error code 0x1337"
+Icons should be relevent to the function... Seriously what the hell does a banana have to do with anything? (See page 30, fig 1.2.3)
+When writing a program, you should add (if you're going commerical) international language support and conversions for any internation people.
+Depending on the program and what version/system it is aiming for, the price should vary.
+My favourite Open Source program right now is Bitcoin. As it's free but with a currency system.
+(Sir, if it's okay can you please send some Bitcoins to this address:
+1MFyMR1xVr1qHPmSGBT9Y7GU8d7L3fPEZK
+Much appreciated,
+-James.)
+Gender... Shut up. Everyone is equal. Don't get me started on the fact that "OH BOO HOO MORE MEN WORK IN IT THAT'S DISCRIMINATION!" I'm sorry but I don't see many girls enlisting in IT? They have as much equal opportunity to enlist in the subject like you or I. Stop spoonfeeding me (from the book) this bunch of nonsense about gender inequallity. I've seen girls do IT and they're the same as you and I.
+Yes of course about problem solving and how the brain works women are much different, but they can still operate a computer and go into CS.
+Now shush.
+Visual disabilities use text to speak functions that can make you operate a computer without vision.
+Hearing problems are deprecated as you can operate a computer WITHOUT SOUND!
+Physical disabilities use other methods like tongue switches and breath control. It's pretty cool.
+Privacy is another issue, where personal information is at risk of exposure. The thing is that this can be impacted by the government (MUH FREEDOMS) and can be avoided if you just install Gentoo. I'm obviously kidding but a risk of privacy can be from not only individuals but the government that we are living under. Privacy Act of 1998 is deprecated.
+The PA1998 contains:
+-Why personal information is collected and how it will be used.
+-Provide individuals with access to records.
+-Divulge details of other organisations.
+-The purpose of holding the information.
+-Describe the information held.
